@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1494965033 source:c:\users\gp\desktop\blackjack\bestellsystem\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	<sstream>
+	"LessThanZero.h"
+	"Table.h"
+	"Restaurant.h"
+
+1494783909 c:\users\gp\desktop\blackjack\bestellsystem\include\lessthanzero.h
+	<exception>
+	<stdexcept>
+
+1494787898 c:\users\gp\desktop\blackjack\bestellsystem\include\tisch.h
+
+1494965412 c:\users\gp\desktop\blackjack\bestellsystem\include\restaurant.h
+	<vector>
+	<string>
+	"Table.h"
+
+1494964416 source:c:\users\gp\desktop\blackjack\bestellsystem\src\lessthanzero.cpp
+	"LessThanZero.h"
+
+1494787902 source:c:\users\gp\desktop\blackjack\bestellsystem\src\tisch.cpp
+	"Tisch.h"
+
+1494964927 source:c:\users\gp\desktop\blackjack\bestellsystem\src\restaurant.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<cstdlib>
+	"Restaurant.h"
+	"Table.h"
+
+1494965186 c:\users\gp\desktop\blackjack\bestellsystem\include\table.h
+
+1494965181 source:c:\users\gp\desktop\blackjack\bestellsystem\src\table.cpp
+	"Table.h"
+
